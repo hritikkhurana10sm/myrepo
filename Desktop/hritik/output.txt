@@ -1,1 +1,1 @@
-I wrote the program
+I wrote the program .and want to see cahnges using git pull , fetch , git remore origin and etc
