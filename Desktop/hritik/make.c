@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
 
-printf("I wrote the program");
+printf("I got the program");
 return 0;
 }
